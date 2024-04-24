@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Hello this is the 3st version of file
-=======
-Hello this is the 4st version of file
->>>>>>> feature-branch
